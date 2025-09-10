@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/house_price_predictor.html",
+      "permanent": true
+    }
+  ]
+}
